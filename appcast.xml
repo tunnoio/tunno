@@ -7,6 +7,19 @@
     <language>en</language>
     <!-- Add new <item> entries below this line -->
     <item>
+      <title>Version 1.1.3</title>
+      <sparkle:version>1.1.3</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <pubDate>Thu, 23 Apr 2026 00:57:38 +0100</pubDate>
+      <enclosure
+        url="https://github.com/tunnoio/tunno/releases/download/v1.1.3/Tunno-1.1.3.dmg"
+        sparkle:edSignature="lHM7BgJ9073/x6msPq8reFGBH9vpX/WPN7e5zpa6nqlJRWzhnSV7QXXhm6buO2SBp9RqcbeHGmHXK4lKudVlBA=="
+        length="18653711"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.1.2</title>
       <sparkle:version>1.1.2</sparkle:version>
       <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
